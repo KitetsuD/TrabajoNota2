@@ -5,7 +5,12 @@
 body{
     font-family: 'Montserrat', sans-serif;
     margin: 0;
+	/*----------------background-image: url("/TrabajoNota2/img/Fondo.jpg");e------------------*/
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
+
 /*----------------Estilos Base------------------*/
 img{
     display: block;
@@ -176,7 +181,7 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .group--color .container{
-	background-color: #DE423A;
+	background-color: #97c2c2;
 	padding: 10px;
 	text-align: center;
 	
