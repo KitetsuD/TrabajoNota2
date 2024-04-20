@@ -115,7 +115,7 @@ h1,h2,h3,h4,h5{
     top: 75px;
     left: 0;
     width: 100%;
-    background:rgba(16, 30, 109, 0.85);
+    background:rgba(241, 243, 97, 0.85);
     padding:0px;
     margin:0px;
     z-index: 2000px;
@@ -242,8 +242,8 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .main-footer{
-	background: #222;
-	color: #fff;
+	background-color: #552828;
+	color: #fff; /* Color blanco para el texto */
 	padding: 10px;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -289,7 +289,7 @@ h1,h2,h3,h4,h5{
 		color: #fff;
 	}
 	.main_nav{
-		background:rgba(16, 30, 109, 0.85);
+		background:rgba(241, 243, 97, 0.85);
 	}
 	.banner__content{
 		font-size:1.5em;
@@ -382,6 +382,7 @@ h1,h2,h3,h4,h5{
 	}
 	.main__about_description .column--50:nth-child(2) .column__txt
 	{
+		color: #810606;
 		line-height: 55px;
 		text-align: justify;
 		
